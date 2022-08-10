@@ -5,7 +5,8 @@ Open Source Intelligence A.K.A OSINT is an especially important field in cyber s
 - Criminal Record Search.    
 - Reverse Face Recognition Search.     
 - Police Scanners On Air.     
-- Flight Tracking.     
+- Flight Tracking.   
+- Sex Offender Search ( Mako Backup ).      
 - IP Address harvesting and location awareness.   
 - Web Browser Fingerprinting.      
 - Reverse Social Network Phone Search.   
