@@ -14,4 +14,4 @@ Open Source Intelligence A.K.A OSINT is an especially important field in cyber s
 - Social Engineering.      
    
    
-These projects are maintained separately in each of their own repository for the project including in some cases a bonus demonstration website that are completely released under commercial usage rights.
+These projects are maintained separately in each of their own repository for the project including in some cases a bonus demonstration website.
